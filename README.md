@@ -28,3 +28,5 @@ Multi-section responsive interface
 User-friendly navigation
 
 Real-world service workflow presentation
+
+<img width="1872" height="915" alt="image" src="https://github.com/user-attachments/assets/5a121bc0-0ec4-4802-bf63-d964691b64b1" />
