@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-4{
+    height: 90%;
+    width: 80%;
+    margin-top: 30PX;
+    padding: 10px;
+    margin-left: 10%;
+}
+.box4-1{
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+  
+    
+}
+.box4-2{
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.card4-1{
+    
+    width: 33%;
+    padding-left:8%;
+    background-color: beige;
+    border-radius: 20px;
+    padding-top: 5%;
+}
+.card4-2{
+    height: 100%;
+    width: 33%;
+    padding-left:8%;
+    background-color: beige;
+    border-radius: 20px; 
+    padding-top: 5%;
+}
+.card4-3{
+     height: 100%;
+    width: 33%;
+    padding-left:7%;
+    background-color: beige;
+    border-radius: 20px; 
+    padding-top: 4%;
+     
+}
+.h7{ 
+    font-size: 25px;
+}
+.card4-4{
+     height: 99%;
+    width: 33%;
+    padding-left:8%;
+    background-color: beige;
+    margin-top: 7px;
+    border-radius: 20px;
+     padding-top: 5%;
+}
+
+.card4-5{
+    height: 99%;
+    width: 33%;
+    padding-left:8%;
+    padding-right: 20px;
+    background-color: beige;
+    margin-top: 7px;
+    border-radius: 20px;
+     padding-top: 5%;
+}
+
+.card4-6{
+    height: 99%;
+    width: 33%;
+    padding-left:8%;
+    background-color: beige;
+    margin-top: 7px;
+    border-radius: 20px;
+     padding-top: 2%;
+}

@@ -1,0 +1,27 @@
+aa.container-5{
+    height: 60%;
+    width: 90%;
+    margin-top: 30PX;
+    margin-left: 5%;
+    padding: 20px;
+    display: flex;
+}
+.p1{
+    margin-top: 10px;
+    color: rgb(96, 87, 87);
+}
+.box5-1{
+    height: 100%;
+    width: 50%;
+    
+}
+.box5-2{
+    height: 100%;
+    width: 40%;
+    margin-left: 40px;
+    background-size: cover;
+    
+}
+.h8{
+    font-size: 28px;
+}
